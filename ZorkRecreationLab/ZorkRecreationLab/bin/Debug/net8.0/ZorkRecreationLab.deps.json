@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZorkRecreationLab/1.0.0": {
+        "runtime": {
+          "ZorkRecreationLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZorkRecreationLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

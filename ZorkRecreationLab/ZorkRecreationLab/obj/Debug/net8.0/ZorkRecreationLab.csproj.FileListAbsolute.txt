@@ -1,0 +1,14 @@
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\bin\Debug\net8.0\ZorkRecreationLab.exe
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\bin\Debug\net8.0\ZorkRecreationLab.deps.json
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\bin\Debug\net8.0\ZorkRecreationLab.runtimeconfig.json
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\bin\Debug\net8.0\ZorkRecreationLab.dll
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\bin\Debug\net8.0\ZorkRecreationLab.pdb
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ZorkRecreationLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ZorkRecreationLab.AssemblyInfoInputs.cache
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ZorkRecreationLab.AssemblyInfo.cs
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ZorkRecreationLab.csproj.CoreCompileInputs.cache
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ZorkRecreationLab.dll
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\refint\ZorkRecreationLab.dll
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ZorkRecreationLab.pdb
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ZorkRecreationLab.genruntimeconfig.cache
+C:\Users\rappa\Documents\github\ZorkRecreationLab\ZorkRecreationLab\ZorkRecreationLab\obj\Debug\net8.0\ref\ZorkRecreationLab.dll
